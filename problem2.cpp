@@ -1,7 +1,8 @@
 /**
  * @file problem2.cpp
  * @author Nathan Albritton
- * @brief 
+ * @brief This program will will ask the user to input the height in inches 
+ * and compute and display the height in feet/inches form.
  * @version 0.1
  * @date 2025-09-05
  * 

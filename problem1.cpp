@@ -1,7 +1,9 @@
 /**
  * @file problem1.cpp
  * @author Nathan Albritton
- * @brief 
+ * @brief This program will determine and report approximately how many
+ * gallons of paint will be needed to paint two coats on each side of 
+ * a wooden fence that is 6 feet high and 100 feet long.
  * @version 0.1
  * @date 2025-09-05
  * 

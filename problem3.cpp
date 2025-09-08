@@ -1,7 +1,9 @@
 /**
  * @file problem3.cpp
  * @author Nathan Albritton
- * @brief 
+ * @brief This program calculates the approximate number of customers 
+ * who purchase one or moreenergy drinks per week and the approximate 
+ * number of customers who purchase citrus flavored energy drinks.
  * @version 0.1
  * @date 2025-09-05
  * 
